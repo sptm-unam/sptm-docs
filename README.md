@@ -2,10 +2,11 @@
 
 Documentación y tutoriales
 
-# Equipo
-
-
 ## Ideas aplicaciones
+
+## Tutoriales
+
+[GIT](git_tutorial.md)
 
 
 # Sesiones 2023
