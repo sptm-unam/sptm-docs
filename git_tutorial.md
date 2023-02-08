@@ -1,6 +1,6 @@
 # GIT
 
-Git es sun sistema de control de versiones.
+Git es un sistema de control de versiones.
 
 ## Referencias
 
