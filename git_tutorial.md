@@ -2,6 +2,30 @@
 
 Git es un sistema de control de versiones.
 
+## Instalación
+
+Link a Git
+LInk a Visual Studio Code
+Link a Git Lab
+
+- Local repo
+- Forks
+- Clonar repositorio
+- Agregar remotos
+- Staging
+- Commit
+- Create Branches
+- Change branches
+- Push remote
+- Merge
+- Pull Requests
+- Modificar un Pull Request
+- Create Branch
+- Cherry-Pick
+- Stash
+- Releases
+
+
 ## Referencias
 
 - [Learn Git Branching](https://learngitbranching.js.org/): Aplicación web para aprender como funcionan las ramas en github.

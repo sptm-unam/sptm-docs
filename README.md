@@ -31,6 +31,13 @@ Contribuir con documentación a p5js
 Elegir algo en que trabajar
 https://github.com/processing/p5.js-website
 
+
+Ejercicio buscar y corregir traducciones:
+https://github.com/processing/p5.js-website/issues/1225
+https://github.com/processing/p5.js-website/issues/1216
+https://p5js.org/es/reference/#/p5/circle
+
+
 ### Febrero 16
 -  Ciclo de Vida del Desarrollo de Sistemas 
 (SDLC Software development lifecycle)
@@ -70,3 +77,7 @@ https://github.com/processing/p5.js-website
 ### Mayo 18
 ### Mayo 19
 ### Mayo 25
+
+
+---
+Cristian Bañuelos, [Dr_holomorfo](https://www.holomorfo.com), 2023.
