@@ -25,6 +25,24 @@ Link a Git Lab
 - Stash
 - Releases
 
+## Cómo trabajar con un remoto 
+
+- Encontrar el remoto que quieras colaborar
+- Crear un fork
+- Clonar tu fork
+- Agregar el principal como remoto, llamarlo upstream o como quieran
+- Ahora hacer track de la rama principal o la que queramos colaborar
+- Sincronizar con la rama main local y de Origin.
+- Listo, mostrar cómo están colaborando
+
+- Ahora hacer un PR
+- Crear una rama con el nombre de los cambios que estamos haciendo desde una versión sincronizada de main.
+- Hacer push ahí
+- Crear un PR al archivo upstream
+- Ya que lo acepten sincronizar nuestra rama Origin/main con origin/upstream.
+- A mi me gusta que la rama main siempre sea un espejo de la de upstream.
+
+Hay muchas otras formas de hacer esto, pero a mí me funciona esta manera.
 
 ## Referencias
 
