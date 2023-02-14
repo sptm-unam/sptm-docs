@@ -27,11 +27,32 @@ Link a Git Lab
 
 ## Cómo trabajar con un remoto 
 
-- Encontrar el remoto que quieras colaborar
+- Encontrar el remoto que quieras colaborar 
+![image](https://user-images.githubusercontent.com/9595617/218665331-d2cd177b-bc3a-4365-96e1-c0f8bb179c33.png)
+
 - Crear un fork
-- Clonar tu fork
-- Agregar el principal como remoto, llamarlo upstream o como quieran
-- Ahora hacer track de la rama principal o la que queramos colaborar
+![image](https://user-images.githubusercontent.com/9595617/218665425-30bc76d3-4337-4f1a-8b71-4a6431cb97e2.png)
+
+- Clonar tu fork y navegar a la carpeta
+![image](https://user-images.githubusercontent.com/9595617/218665605-4431dea7-ae38-4902-a000-264a56d84381.png)
+
+```
+git clone git@github.com:holomorfo/sptm-docs.git
+cd sptm-docs
+```
+
+
+- Agregar el principal como remoto, llamarlo upstream o como quieran, en este caso es el original "sptm-unam/stpm-docs.git."
+ ```
+ git remote add upstream git@github.com:sptm-unam/sptm-docs.git
+ ```
+ En este caso estamos diciendo que vamos a agregar el repositorio `sptm-unam/sptm-docs.git` como remoto con el nombre `upstream`
+
+- Haver un fetch de `upstram` para tener todas las ramas sincronizadas:
+```
+git fetch upstream
+```
+
 - Sincronizar con la rama main local y de Origin.
 - Listo, mostrar cómo están colaborando
 
