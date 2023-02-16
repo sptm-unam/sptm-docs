@@ -46,18 +46,23 @@ https://p5js.org/es/reference/#/p5/circle
     - Desarrollo
     - Pruebas
     - Puesta en Producción
+    
+    https://www.c-sharpcorner.com/UploadFile/d9c992/the-agile-scrum-framework/
 - API
 - MVP
 - release numbers
+https://en.wikipedia.org/wiki/Software_versioning
 - Metodología cascada
+https://www.easyredmine.com/news/waterfall-vs-agile-what-is-the-best-approach-for-a-software-development-project
 - Metodología Agil
   - Scrum
+  https://www.inflectra.com/Methodologies/Scrum.aspx
   - Kanban
-  - Jira
+  https://www.wesquare.nl/scrum-vs-kanban-a-fair-comparison/
 
 ### Febrero 24
 - Subdivisión de tareas
-- 
+- Planeación de releases
 
 ## Marzo
 
