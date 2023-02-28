@@ -61,7 +61,12 @@ https://www.easyredmine.com/news/waterfall-vs-agile-what-is-the-best-approach-fo
   https://www.wesquare.nl/scrum-vs-kanban-a-fair-comparison/
 
 ### Febrero 24
-- Subdivisión de tareas
+- Planeación del backlog
+- Elección de tamaño, (camisetas)
+- Etiquetas
+- Tareas repetidas.
+
+- Columnas de tareas
 - Planeación de releases
 
 ## Marzo
