@@ -72,6 +72,10 @@ https://www.easyredmine.com/news/waterfall-vs-agile-what-is-the-best-approach-fo
 ## Marzo
 
 ### Marzo 2
+
+- Información para filtrar las historias
+https://github.com/github/docs/blob/main/content/issues/planning-and-tracking-with-projects/customizing-views-in-your-project/filtering-projects.md
+
 ### Marzo 9
 ### Marzo 16
 ### Marzo 23
