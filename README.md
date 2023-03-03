@@ -76,6 +76,9 @@ https://www.easyredmine.com/news/waterfall-vs-agile-what-is-the-best-approach-fo
 - Información para filtrar las historias
 https://github.com/github/docs/blob/main/content/issues/planning-and-tracking-with-projects/customizing-views-in-your-project/filtering-projects.md
 
+- Propuesta para participar (Fecha limite 19 marzo)
+https://browsersound.com/
+
 ### Marzo 9
 ### Marzo 16
 ### Marzo 23
