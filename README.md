@@ -7,6 +7,7 @@ Documentación y tutoriales
 ## Tutoriales
 
 [GIT](git_tutorial.md)
+[Referencias de aprendizaje](referencias_educativas.md)
 
 
 # Sesiones 2023
@@ -80,6 +81,12 @@ https://github.com/github/docs/blob/main/content/issues/planning-and-tracking-wi
 https://browsersound.com/
 
 ### Marzo 9
+
+- Repaso del primer sprint/iteración
+- Herramientas para build: Webpack, Parcel y Vite
+- Preprocesador CSS
+- Refinar historias para sprint 5, preparar hisotiras para sprint 6. 
+
 ### Marzo 16
 ### Marzo 23
 ### Marzo 30
