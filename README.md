@@ -7,7 +7,7 @@ Documentación y tutoriales
 ## Tutoriales
 
 [GIT](git_tutorial.md)
-[Referencias de aprendizaje](referencias_educativas.md)
+[Aprendizaje Front End](referencias_educativas.md)
 
 
 # Sesiones 2023
