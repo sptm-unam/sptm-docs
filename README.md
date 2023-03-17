@@ -104,6 +104,9 @@ https://browsersound.com/
   - Vue
   - React
   - Angular 
+  - https://ejs.co/
+  - jade https://www.tutorialsteacher.com/nodejs/jade-template-engine
+  - pug https://github.com/pugjs/pug
 - Repaso de sprint
 - Preparar nuevas tareas
 
