@@ -84,10 +84,14 @@ https://browsersound.com/
 
 - Repaso del primer sprint/iteración
 - Herramientas para build: Webpack, Parcel y Vite
+- SSH configuration
+- Coordinar fork con upstream
+- Milestones y Epics
 - Preprocesador CSS
 - Refinar historias para sprint 5, preparar hisotiras para sprint 6. 
 
 ### Marzo 16
+
 ### Marzo 23
 ### Marzo 30
 
