@@ -92,6 +92,21 @@ https://browsersound.com/
 
 ### Marzo 16
 
+- CI/CD Deploy DreamHost, netlify
+- Herramientas de traducción i18n
+- eslint guia de estilo
+- Build Tools
+  - Vite
+  - Parcel
+  - Webpack
+- UI Frameworks
+  - jQuery
+  - Vue
+  - React
+  - Angular 
+- Repaso de sprint
+- Preparar nuevas tareas
+
 ### Marzo 23
 ### Marzo 30
 
