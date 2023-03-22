@@ -111,6 +111,16 @@ https://browsersound.com/
 - Preparar nuevas tareas
 
 ### Marzo 23
+
+- NPM
+- Typescript
+- Parcel
+- Github Pages actions
+- Github pages ambientes de desrrollo
+- Jenkins/Jekyll 
+- Ejemplo de una libreria
+- Ejemplo de una webapp
+
 ### Marzo 30
 
 ### Abril 6
