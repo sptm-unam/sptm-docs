@@ -121,6 +121,7 @@ https://browsersound.com/
 - Ejemplo de una libreria
 - Ejemplo de una webapp
 - Accesibilidad y ADA
+- Seguridad y script injection
 
 ### Marzo 30
 
