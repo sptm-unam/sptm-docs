@@ -1,6 +1,6 @@
 # SPTM
 
-Ver seccion Wiki para mas infroamcion:
+Ver seccion Wiki para mas información:
 
 - [WIKI](https://github.com/sptm-unam/sptm-docs/wiki)
 
