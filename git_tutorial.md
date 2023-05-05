@@ -77,6 +77,7 @@ Hay muchas otras formas de hacer esto, pero a mí me funciona esta manera.
 - [Cheatsheet de Markdown (para dar formato a archivos con extensión .md)](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - [Manual "Pro Git"](https://git-scm.com/book/en/v2)
 - [Borrar *branches* locales y remotos (limpieza)](https://railsware.com/blog/git-housekeeping-tutorial-clean-up-outdated-branches-in-local-and-remote-repositories/)
+- [Conflictos al hacer Merge](https://www.atlassian.com/git/tutorials/using-branches/merge-conflicts)
 
 ## Hacks
 
